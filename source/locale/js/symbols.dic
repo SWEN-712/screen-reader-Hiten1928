@@ -3,6 +3,7 @@
 #Copyright (c) 2011-2017 NVDA Contributors
 #This file is covered by the GNU General Public License.
 
+
 complexSymbols:
 # identifier	regexp
 # Sentence endings.
@@ -187,6 +188,26 @@ _	line	most
 ⅜	three eights	none
 ⅝	five eighths	none
 ⅞	seven eighths	none
+
+# Javascript Operators
++ added		all
+- subtracted	all
+
+# Javascript Comparison and Logical Operators
+== equals	all
+=== absolute equals		all
+!= not equal	all
+!== absolute not equals		all
+&& and		all
+|| or		all
+/ divided by	all
+% remains		all
+* multiplied	all
+++ incremented by 1		all
+-- decremented by 1		all
+** exponentiates to		all
+=+ adds 1 to self		all
+=- subtracts 1 to self	all
 
 # Miscellaneous Technical
 ⌘	Mac Command key	none
